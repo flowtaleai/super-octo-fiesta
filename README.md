@@ -1,6 +1,6 @@
 # super-octo-fiesta
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://USERNAME.github.io/super-octo-fiesta/lab?path=test_tasks.ipynb)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://flowtaleai.github.io/super-octo-fiesta/lab/index.html?path=test_tasks.ipynb)
 
 A JupyterLite deployment with xeus-python kernel for running Python notebooks entirely in the browser.
 
